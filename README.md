@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Andre Strelnikov 
 - 👀 I’m interested in develop
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Junior-Python
+- 💞️ I’m want working Junior-Python
